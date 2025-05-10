@@ -1,4 +1,4 @@
-# RailwayVisions
+# Railway Visions
 
 Visionen für zukünftige Eisenbahn-Schnellfahrstrecken.
 
