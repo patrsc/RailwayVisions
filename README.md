@@ -32,6 +32,12 @@ https://maplinedraw.com/projects/6qcgknnj6y0l
 
 Pyhrnbahn mit bis zu 200 km/h und Anschluss Wels.
 
+### Radstadt-St. Michael (Ennstalbahn und Rudolfsbahn)
+
+https://maplinedraw.com/projects/d236uzcm3l9x
+
+Ennstalbahn und Rudolfsbahn mit bis zu 200 km/h.
+
 ### Mürzzuschlag-Bruck (Südbahn)
 
 Mürzzuschlag bis Bruck an der Mur mit 230 km/h. Optionale Umfahrung Kapfenberg via Tunnel.
