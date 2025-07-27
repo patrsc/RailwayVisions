@@ -26,6 +26,12 @@ https://maplinedraw.com/projects/wzpdd2bsr0kt
 
 Entwurf Linz-Budweis für 200 km/h (Neue Summerauer Bahn).
 
+## Ansfelden-Selzthal (Pyhrnbahn)
+
+https://maplinedraw.com/projects/6qcgknnj6y0l
+
+Pyhrnbahn mit bis zu 200 km/h und Anschluss Wels.
+
 ### Mürzzuschlag-Bruck (Südbahn)
 
 Mürzzuschlag bis Bruck an der Mur mit 230 km/h. Optionale Umfahrung Kapfenberg via Tunnel.
